@@ -1,0 +1,57 @@
+
+
+.content{
+    min-height: calc(100vh - 56px - 72px);
+}
+
+.loading{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.spinner-border{
+    width: 300px;
+    height: 300px;
+    margin-top: 200px;
+}
+
+.korIcon{
+    font-size: 50px;
+    color: blue;
+}
+.kor{
+    width: 82px;
+    height: 60px;
+    background-color: gainsboro;
+    padding: 5px;
+    box-sizing: border-box;
+    border-radius: 10px;
+    position: fixed;
+    right: 10%;
+    top: 10%;
+}
+
+.count{
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.wrap{
+    position: fixed;
+    top: 40%;
+    left: 28%;
+}
+
+
+
+.delates{
+    font-size: 40px;
+    color: red;
+    cursor: pointer;
+}
+
+.car1{
+    height: 180px;
+    overflow-x: auto;
+}

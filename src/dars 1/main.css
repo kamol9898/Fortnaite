@@ -1,0 +1,15 @@
+.wrap{
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.tel{
+    width: 300px;
+    height: 300px;
+    color: blue;
+}
+
+.tel:hover{
+    color: red;
+}

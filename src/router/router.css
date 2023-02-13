@@ -1,0 +1,36 @@
+
+.nav{
+    height: 80px;
+    padding-top: 50px;
+}
+
+
+a{
+    color: red;
+    padding: 0 20px;
+    text-decoration: none;
+   
+}
+ 
+a.active{
+    color: blue;
+    font-weight: 900;
+}
+
+
+.quti1{
+    width: 400px;
+    height: 400px;
+    background-color: red;
+}
+
+.quti2{
+    width: 400px;
+    height: 400px;
+    background-color: blue;
+}
+.quti3{
+    width: 400px;
+    height: 400px;
+    background-color: yellowgreen;
+}
